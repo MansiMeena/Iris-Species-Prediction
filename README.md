@@ -1,2 +1,2 @@
 # Iris-Species-Prediction
-An ANN approach to predict Iris Species.
+An Artificial Neural Network approach to predict Iris Species.
